@@ -100,6 +100,7 @@ class TwilioVoicePHP
     {
         self::$authToken = getenv('TWILIO_AUTH_TOKEN');
     }
+    
 
     /**
      * Return the AuthToken
