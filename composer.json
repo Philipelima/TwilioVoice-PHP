@@ -1,0 +1,18 @@
+{
+    "name": "philipelima/twiliovoice-php",
+    "authors": [
+        {
+            "name": "Philipe M. Lima",
+            "email": "philipematheus.lim@gmail.com",
+            "homepage": "https://linkedin.com/in/philipe-matheus-lima"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TwilioVoicePhp\\":"src/"
+        }
+    }, 
+    "require": {
+        "twilio/sdk": "^5.0"
+    }
+}
