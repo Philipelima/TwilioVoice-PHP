@@ -56,7 +56,7 @@ Making a phone call via Twilio Service:
 	(new TwilioVoicePHP)->makeCall($userNumber);
 ```
 
-### For more information:
+### For more information about Twilio:
 
 Twilio Doc's: https://www.twilio.com/docs/libraries/php
 
