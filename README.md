@@ -10,7 +10,7 @@ You can clone this code to your project:
 
 ## Requirements
 
-1. PHP 7.4 <
+1. PHP 7.4 >
 2. Twilio/sdk ^5.0 
 
 
